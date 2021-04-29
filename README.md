@@ -88,7 +88,7 @@ If you want to customize the build configuration, check the [Configuration Refer
 ## 📜 Credits
 
 - Main libraries : [VueJS](https://vuejs.org), [Vuetify](https://vuetifyjs.com)
-- Maintainer : [Exybore](https://github.com/exybore)
+- Maintainer : [Théo Vidal](https://github.com/theovidal)
 
 ## 🔐 License
 
